@@ -1,7 +1,7 @@
 .vs/
-.x64/
-.debug/
-.release/
+x64/
+debug/
+release/
 *.user
 
 # Prerequisites
