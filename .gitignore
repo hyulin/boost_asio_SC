@@ -2,6 +2,7 @@
 .x64/
 .debug/
 .release/
+*.user
 
 # Prerequisites
 *.d
